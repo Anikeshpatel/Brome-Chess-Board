@@ -1,0 +1,11 @@
+.root{
+    -fx-background-color: #2a2e37;
+}
+.wooden{
+    /*-fx-background-color: #ffa54f;*/
+    -fx-background-color: linear-gradient(to bottom , #ffa54f, #ff9100);
+}
+.board_border{
+    -fx-background-color: linear-gradient(from 25% 25% to 100% 100%, #dc143c, #32cd32);
+    -fx-effect: innershadow(gaussian,black,20,0.2,0,0);
+}
